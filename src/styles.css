@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+:root {
+  --color-A: #4899b7;
+  --color-K: #040219;
+  --color-L: #67717a;
+  --color-B: #f6f6f6;
+  --color-C: #ffffff;
+  --color-M: #1eaf2c;
+  --color-D: #e95060;
+  --color-N: #ff9900;
+  --color-E: #40bac2;
+  --color-F: #00a2fd;
+  --color-G: #af67b0;
+  --color-H: #f37070;
+  --color-I: #00bf28;
+  --color-J: #ff5d30;
+  --color-Q: #cde7ff;
+  --white-color: #ffffff;
+  --sidebar-text-color: #ffffff;
+  --color-O: #040219;
+  --color-P: #ffffff;
+  --converge-logo-color: #4899b7;
+  --header-height: 60px;
+  --sidebar-width: 200px;
+  --sidebar-width-collapsed: 80px;
+  --transition1: all 0.3s ease;
+  --color-opacity: 0.5;
+}
+
+.css-b62m3t-container {
+  position: relative;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.css-69rw86-control {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
